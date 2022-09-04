@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'House',
+      name: 'fort-awesome-alt',
       link: 'https://mickyc.gq',
     },
     {
