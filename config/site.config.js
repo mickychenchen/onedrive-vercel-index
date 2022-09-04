@@ -52,7 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
    links: [
     {
-      name: '<a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>',
+      name: 'Home',
+      link: 'https://mickyc.gq'
     },
     {
       name: 'Telegram',
