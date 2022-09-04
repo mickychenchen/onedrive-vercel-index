@@ -51,14 +51,7 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    {
-      name: 'fort-awesome',
-      link: 'https://mickyc.gq',
-    },
-    {
-      name: "",
-      link: 'https://t.me/realSpencerWoo',
-    },
+    '<a href="https://github.com/spencerwooo/onedrive-vercel-index" rel="noopener noreferrer">🛖</a>'
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
