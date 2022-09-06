@@ -52,12 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
    links: [
     {
-      name: 'HOME🛖',
+      icon: '/icons/gq.png',
       link: 'https://mickyc.gq'
     },
     {
-      name: '',
-      link: 'https://t.me/realSpencerWoo',
+      icon: '/icons/cf.png',
+      link: 'https://micky.cf',
     },
   ],
 
