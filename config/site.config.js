@@ -53,11 +53,11 @@ module.exports = {
    links: [
     {
       name: '🛖GQ',
-      link: 'https://mickyc.gq'
+      link: 'https://www.mickyc.gq'
     },
     {
       name: '🛖CF',
-      link: 'https://micky.cf',
+      link: 'https://www.micky.cf',
     },
   ],
 
